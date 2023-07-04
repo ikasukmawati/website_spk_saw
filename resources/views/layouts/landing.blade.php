@@ -1,0 +1,5 @@
+@section('page_title', 'Landing Page SPK')
+@extends('sections.header')
+@extends('sections.hero')
+@extends('sections.features')
+@extends('sections.footer')
